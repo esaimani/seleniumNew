@@ -6,7 +6,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.time.Duration;
 
-public class Button {
+public class LearnButton {
 
     static WebDriver driver;
 
