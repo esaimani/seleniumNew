@@ -25,7 +25,6 @@ public class LearnDrag {
         actions.dragAndDropBy(element,50,70).perform();
 
         Thread.sleep(5000);
-
         driver.quit();
     }
 }
